@@ -1,2 +1,9 @@
 # Exercicio1Aponti
-trabalho para entrega na aponti.
+Repositorio para ser entregueno exercicio 1 aponti github.
+
+
+
+
+
+
+

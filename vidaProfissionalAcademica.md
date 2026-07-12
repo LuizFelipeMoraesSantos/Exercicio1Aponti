@@ -1,0 +1,2 @@
+# Vida academica e profissional:
+Atualmente, faço analise de sistemas e atuo como Estagiário no Departamento de Robótica do CETEC, onde desenvolvo soluções educacionais e ferramentas organizacionais. Paralelamente, dedico-me ao aprimoramento técnico em arquiteturas robustas baseadas no ecossistema Java & Spring.
